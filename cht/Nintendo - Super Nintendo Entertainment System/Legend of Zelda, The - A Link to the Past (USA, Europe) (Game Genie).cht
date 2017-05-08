@@ -48,3 +48,11 @@ cheat11_desc = "Warp Between Worlds Freely"
 cheat11_code = "6DC9-0D23"
 cheat11_enable = false 
 
+cheat12_desc = "Boomerang Level 2"
+cheat12_code = "D4EA-DF2F"
+cheat12_enable = false
+
+cheat13_desc = "Glove"
+cheat13_code = "DFE2-D4BF"
+cheat13_enable = false
+
